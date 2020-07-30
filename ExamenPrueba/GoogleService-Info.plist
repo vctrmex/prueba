@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>252396627484-btmn89u5a55q9kjvo18id18h0bv6bc0r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.252396627484-btmn89u5a55q9kjvo18id18h0bv6bc0r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAR_jQP7QfEYqd6zhi8TQqg0vlDbmy0Fq0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>252396627484</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lion.group.mx.ExamenPrueba</string>
+	<key>PROJECT_ID</key>
+	<string>examen-280e3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>examen-280e3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:252396627484:ios:3ebb9a72ca371e091de1d9</string>
+	<key>DATABASE_URL</key>
+	<string>https://examen-280e3.firebaseio.com</string>
+</dict>
+</plist>
